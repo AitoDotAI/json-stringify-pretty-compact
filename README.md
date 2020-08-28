@@ -88,7 +88,7 @@ arrays are on one line if they fit (according to `options.maxLength`).
 - arrayMargins: Defaults to `false`. Whether or not to add “margins” around brackets:
   - `false`: `{"a": [1]}`
   - `true`: `{"a": [ 1 ]}`
-- arrayMargins: Defaults to `true`. Whether or not to add “margins” around braces:
+- objectMargins: Defaults to `true`. Whether or not to add “margins” around braces:
   - `false`: `{"a": [1]}`
   - `true`: `{ "a": [1] }`
 
